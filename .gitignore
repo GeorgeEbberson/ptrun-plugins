@@ -1,0 +1,7 @@
+# Visual Studio files
+.vs
+bin
+obj
+
+# Library folder; we don't include these to force users to put the correct versions in the folder
+libs

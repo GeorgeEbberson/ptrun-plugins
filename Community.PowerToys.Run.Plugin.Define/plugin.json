@@ -1,0 +1,14 @@
+{
+  "ID": "587838B2913B4C12AF72FE2822B40F69",
+  "ActionKeyword": "define",
+  "IsGlobal": false,
+  "Name": "Define",
+  "Author": "GeorgeEbberson",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/GeorgeEbberson/ptrun-plugins",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.Define.dll",
+  "IcoPathDark": "Images\\define.dark.png",
+  "IcoPathLight": "Images\\define.light.png",
+  "DynamicLoading": false
+}
